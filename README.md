@@ -69,7 +69,8 @@ You can evaluate the models by comparing their accuracy and performance across d
 
 ### Event Participation
 This project was presented at the Annual Research Projects Event of Islamic Azad University NTB, showcasing the application of fuzzy logic in breast cancer classification.
-![NTB Research Event](pariya_afsharipour.png)
+<img src="pariya_afsharipour.png" alt="NTB Research Event" width="500" height="auto">
+
 
 
 
