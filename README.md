@@ -64,3 +64,12 @@ pip install pandas numpy scikit-fuzzy kaggle scikit-learn
 ### Results
 
 You can evaluate the models by comparing their accuracy and performance across different fuzzy inference systems. The goal is to optimize the rule base for the highest classification accuracy.
+
+
+
+### Event Participation
+This project was presented at the Annual Research Projects Event of Islamic Azad University NTB, showcasing the application of fuzzy logic in breast cancer classification.
+![NTB Research Event](pariya_afsharipour.png)
+
+
+
